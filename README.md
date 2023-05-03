@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iván Emiliano Díez Cárdenas</h1>
 <h3 align="center">Me encanta la Tegnologia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivandc03&label=Profile%20views&color=0e75b6&style=flat" alt="ivandc03" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivandc03" alt="ivandc03" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Proyecto Integrador**

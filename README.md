@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivandc03" alt="ivandc03" /></a> </p>
 
-- 🌱 I’m currently learning **Packet Tracer**
+- 🌱 I’m currently learning **Packet Tracer and Wireshark**
 
 - 👯 I’m looking to collaborate on **Proyecto Integrador**
 

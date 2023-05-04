@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Iván Emiliano Díez Cárdenas</h1>
-<h3 align="center">Me encanta la Tegnologia</h3>
+<h3 align="center">I love technology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivandc03" alt="ivandc03" /></a> </p>
+
+- 🌱 I’m currently learning **Packet Tracer**
 
 - 👯 I’m looking to collaborate on **Proyecto Integrador**
 
 - 📝 I regularly write articles on [https://us.u-tad.com/2022/10/como-resident-evil-2-remake-regresa-a-un-terror-fresco-pero-familiar/](https://us.u-tad.com/2022/10/como-resident-evil-2-remake-regresa-a-un-terror-fresco-pero-familiar/)
 
-- 💬 Ask me about **Technology or more specify computers**
+- 💬 Ask me about **Computers and Characteristics**
 
 - 📫 How to reach me **ivandiezcardenas23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ivan emiliano diez cardenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan emiliano diez cardenas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iván emiliano díez cárdenas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iván emiliano díez cárdenas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

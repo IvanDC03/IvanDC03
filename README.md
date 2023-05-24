@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandc03&show_icons=true&locale=en" alt="ivandc03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivandc03&" alt="ivandc03" /></p>
+[awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)

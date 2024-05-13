@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=La+informática+es+como+un+rompecabezas+infinito+del+cual+todo+el+mundo+necesita+aprender!!!;¯\_(ツ)_/¯)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ME+GUSTA+LA+CIBERSEGURIDAD!!;¯\_(ツ)_/¯)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=ME+GUSTA+LA+INFORMATICA!!;¯\_(ツ)_/¯)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=La+informática+es+como+un+rompecabezas+infinito+del+cual+todo+el+mundo+necesita+aprender!!!;¯\_(ツ)_/¯)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Iván Emiliano Díez Cárdenas</h1>
 <h3 align="center">A passionate network administrator from Spain</h3>

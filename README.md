@@ -19,3 +19,4 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivandc03&show_icons=true&locale=en&layout=compact" alt="ivandc03" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandc03&show_icons=true&locale=en" alt="ivandc03" /></p>

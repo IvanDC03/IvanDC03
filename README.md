@@ -1,9 +1,9 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Venezuela_%2810_Stars%29.svg/200px-Flag_of_Venezuela_%2810_Stars%29.svg.png" alt="bash" width="250" height="150"/></a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg" alt="bash" width="250" height="150"/></a> 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&size=30&duration=8000&pause=4000&color=F75020&random=false&width=435&lines=Me+gusta+la+Ciberseguridad!!!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&size=30&duration=6000&pause=3000&color=40F72A&random=false&width=435&lines=La+inform%C3%A1tica+es+como+;un+rompecabezas+infinito+del+cual+;todo+el+mundo+necesita+aprender!!!)](https://git.io/typing-svg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Venezuela_%2810_Stars%29.svg/200px-Flag_of_Venezuela_%2810_Stars%29.svg.png" alt="bash" width="250" height="150"/></a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg" alt="bash" width="250" height="150"/></a> 
 
 <h1 align="center">Hi 👋, I'm Iván Emiliano Díez Cárdenas</h1>
 <h3 align="center">A passionate network administrator from Spain</h3>

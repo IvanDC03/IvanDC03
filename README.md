@@ -1,5 +1,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Venezuela_%2810_Stars%29.svg/200px-Flag_of_Venezuela_%2810_Stars%29.svg.png" alt="bash" width="100" height="100"/></a> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg" alt="bash" width="200" height="200"/></a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg" alt="bash" width="250" height="200"/></a> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25+Charted&size=30&duration=8000&pause=4000&color=F75020&random=false&width=435&lines=Me+gusta+la+Ciberseguridad!!!)](https://git.io/typing-svg)
 

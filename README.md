@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Iván Emiliano Díez Cárdenas</h1>
 <h3 align="center">A passionate network administrator from Spain</h3>
-- 🌱 I’m currently learning **VirtualBox, Ubuntu, Windows Server(VirtualBox), Packet Tracer**
+- 🌱 I’m currently learning **VirtualBox, Ubuntu, Windows Server, Debian**
 
 - 📝 I regularly write articles on [https://us.u-tad.com/2022/10/como-resident-evil-2-remake-regresa-a-un-terror-fresco-pero-familiar/](https://us.u-tad.com/2022/10/como-resident-evil-2-remake-regresa-a-un-terror-fresco-pero-familiar/)
 
@@ -35,6 +35,9 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+  <img src="https://www.wpsysadmin.com/wp-content/uploads/2021/07/mariadb.png" alt="mariadb" width="40" height="40"/> </a>
+</p>
+<a href=" https://www.computernetworkingnotes.com/wp-content/uploads/ccna-study-guide/images/csg132-01-cisco-packet-tracer.png" target="_blank" rel="noreferrer">
   <img src="https://www.wpsysadmin.com/wp-content/uploads/2021/07/mariadb.png" alt="mariadb" width="40" height="40"/> </a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivandc03&show_icons=true&locale=en&layout=compact" alt="ivandc03" /></p>

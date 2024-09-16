@@ -37,8 +37,8 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
   <img src="https://www.wpsysadmin.com/wp-content/uploads/2021/07/mariadb.png" alt="mariadb" width="40" height="40"/> </a>
 </p>
-<a href="https://www.computernetworkingnotes.com/wp-content/uploads/ccna-study-guide/images/csg132-01-cisco-packet-tracer.png" target="_blank" rel="noreferrer">
-  <img src="https://www.wpsysadmin.com/wp-content/uploads/2021/07/mariadb.png" alt="mariadb" width="40" height="40"/> </a>
+<a href="https://mariadb.org/](https://www.netacad.com/cisco-packet-tracer" target="_blank" rel="noreferrer">
+  <img src="https://www.computernetworkingnotes.com/wp-content/uploads/ccna-study-guide/images/csg132-01-cisco-packet-tracer.png" alt="packetTracer" width="40" height="40"/></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivandc03&show_icons=true&locale=en&layout=compact" alt="ivandc03" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivandc03&show_icons=true&locale=en" alt="ivandc03" /></p>

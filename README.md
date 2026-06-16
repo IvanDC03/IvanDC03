@@ -7,9 +7,9 @@
 
 <h1 align="center">Hi 👋, I'm Iván Emiliano Díez Cárdenas</h1>
 <h3 align="center">A passionate network administrator from Spain</h3>
-- 🌱 I’m currently learning **VirtualBox, Ubuntu, Windows Server, Debian**
+- 🌱 I’m currently learning **Metasploit, VirtualBox, Kali Linux...**
 
-- 📝 I regularly write articles on [https://us.u-tad.com/2022/10/como-resident-evil-2-remake-regresa-a-un-terror-fresco-pero-familiar/](https://us.u-tad.com/2022/10/como-resident-evil-2-remake-regresa-a-un-terror-fresco-pero-familiar/)
+- 📝 I write articles on [https://us.u-tad.com/2022/10/como-resident-evil-2-remake-regresa-a-un-terror-fresco-pero-familiar/](https://us.u-tad.com/2022/10/como-resident-evil-2-remake-regresa-a-un-terror-fresco-pero-familiar/)
 
 - 💬 Ask me about **Computers and Characteristics**
 
